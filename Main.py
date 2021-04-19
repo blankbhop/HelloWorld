@@ -1,1 +1,3 @@
-print('Hello World!')
+#begin script
+print('Hello World!') #main code
+#printed hello world
